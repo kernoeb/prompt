@@ -22,7 +22,7 @@
     "async": "3.2.3",
     "read": "1.0.x",
     "revalidator": "0.1.x",
-    "winston": "3.9.x"
+    "winston": "3"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
